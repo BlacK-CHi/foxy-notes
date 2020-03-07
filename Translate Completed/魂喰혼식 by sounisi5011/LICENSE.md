@@ -11,4 +11,5 @@
 - **동일조건변경허락** — 이 저작물을 리믹스, 변형하거나 2차적 저작물을 작성하고 그 결과물을 공유할 경우에는 원 저작물과 동일한 조건의 CCL을 적용하여야 합니다.
 - **추가제한금지** — 이용자는 이 라이선스로 허용된 행위를 제한하는 법적 조건이나 기술적 조치를 부가해서는 안 됩니다.
 
-자세한 사항은 [크리에이티브 커먼즈](https://creativecommons.org/licenses/by-sa/4.0/deed.ko) 의 설명을 참고해 주십시오.
+- 자세한 사항은 [크리에이티브 커먼즈](https://creativecommons.org/licenses/by-sa/4.0/deed.ko) 의 설명을 참고해 주십시오.
+- 일본어 원본은 [sounisi5011님의 웹사이트](https://www.sounisi5011.jp/novels/%E9%AD%82%E5%96%B0/) 또는, [GitHub](https://github.com/sounisi5011/sounisi5011.jp/tree/master/src/pages/novels/%E9%AD%82%E5%96%B0)에서 열람이 가능합니다.
