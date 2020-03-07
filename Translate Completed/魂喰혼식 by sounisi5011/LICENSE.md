@@ -1,5 +1,6 @@
-![LICENSE_CCBYSA40](https://www.sounisi5011.jp/images/creativecommons.by-sa.88x31.png)
+![LICENSE_CCBYSA40](https://www.sounisi5011.jp/images/creativecommons.by-sa.88x31.png)　Copyright © 2020 sounisi5011 Some Rights Reserved.
 
+　
 **이 저작물은 CC BY-SA 4.0 이용허락규약을 준수합니다.**
 
 이 저작물에 대해 이용자는 다음과 같은 권리를 갖습니다.
