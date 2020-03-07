@@ -1,7 +1,11 @@
 # foxy-notes
 
-##�Quick Blue Fox Jumps over the Lazy Dragon.
-## And Falls in the cave.
+## 많고-많은 여우들 중에서- 누가 가장 제일?
+## 이것저것 관심 많은 작은 여우와 여우불의 담벼락.
 
-- BKCHI_shelter(https://twitter.com/BKCHI_shelter)'s Note-pad Repo.
-- Do not Fork, or Download text files without the permission.
+- 번역 용도 또는 소설 집필, 아이디어 노트, 그 외에 등등.. 아무튼 다용도로 사용하는 레포지트리입니다!
+- Watch, Fork 등 레포를 복사하는 행위를 일절 금합니다. 안에 있는 게 다 제 건 아니거든요.
+
+### 번역본에 관하여
+- 번역본은 따로 각각의 폴더에 포함된 LICENSE.md에 따라 보호받습니다.
+- 열람 및 소장용 저장은 자유입니다. 하지만 해당 번역본을 따로 출판용도로 사용할 경우 저작권법에 의거, 처벌받을 수 있습니다.
