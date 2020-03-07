@@ -14,4 +14,4 @@
 
 
 - 자세한 사항은 [크리에이티브 커먼즈](https://creativecommons.org/licenses/by-sa/4.0/deed.ko) 의 설명을 참고해 주십시오.
-- 일본어 원본은 [sounisi5011님의 웹사이트](https://www.sounisi5011.jp/novels/%E9%AD%82%E5%96%B0/) 또는, [GitHub](https://github.com/sounisi5011/sounisi5011.jp/tree/master/src/pages/novels/%E9%AD%82%E5%96%B0)에서 열람이 가능합니다.
+- 일본어 원본은 [sounisi5011님의 웹사이트](https://www.sounisi5011.jp/novels/%E7%AB%9C%E7%8B%A9%E3%82%8A%E9%81%94%E3%81%AE%E6%95%97%E5%8C%97/)에서 열람이 가능합니다.
